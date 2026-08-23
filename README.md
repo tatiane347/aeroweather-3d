@@ -50,6 +50,5 @@ Gostaria de criar um projeto ou funil de alta conversão sob medida para o seu n
 Desenvolvido com visão estratégica de negócios e foco absoluto em conversão por Tatiane Nascimento De Souza 🥰
 
 
-<img width="768" height="1404" alt="1787490831270" src="https://github.com/user-attachments/assets/b22014d7-ed57-421f-8041-24e314180a8c" />
-<img width="720" height="1520" alt="Screenshot_20260823-102425_Chrome" src="https://github.com/user-attachments/assets/ab39a6d6-bf4d-45c5-91bc-20e866d395b0" />
-
+<img width="768" height="1404" alt="1787490831270" src="https://github.com/user-attachments/assets/7c3ad8f0-5fd7-4865-b06f-975196b85e34" />
+<img width="720" height="1316" alt="20260823_100716" src="https://github.com/user-attachments/assets/95789430-3825-4c2d-ae0b-45c1f4eef9c2" />
